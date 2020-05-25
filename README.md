@@ -1,2 +1,2 @@
-# mouseControlled-bird
-take you time to destroy the pigs if done reset
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
